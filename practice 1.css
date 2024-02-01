@@ -54,8 +54,7 @@ nav > ul{
 }
 .transparency{
     height: 100px;
-    background-color: aqua;
-    /* background-color: rgb(255, 255, 255, 0.3); */
+    background-color: rgb(255, 255, 255, 0.3);
     margin-top: 237px;
     display: flex;
 }
@@ -72,7 +71,6 @@ nav > .gap-1{
 .transparenc{
     margin-top: -50px;
 }
-
 .end-block{
     width: 65px;
     height: 65px;
@@ -81,6 +79,56 @@ nav > .gap-1{
     border-radius: 50px;
     margin: 16px;
 }
+
+
+
+/* section */
+.section{
+    height: 1000px;
+    background-color: #010F29;
+}
+.bag-img{
+    color: white;
+    margin: auto;
+    width: 900px;
+    height: 330px;
+    background-image: url(molochnyi-dom.png);
+}
+.VISOTA{
+    padding: 230px 0 0 50px;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 @media (max-width:1440px) {
